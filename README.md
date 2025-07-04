@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Basak</h1>
-<h3 align="center">Electronics and Communication undergraduate at VIT-AP University with hands-on experience in Verilog-based digital design, physical design workflows, and EDA tools. Also a passionate frontend developer from India with a strong foundation in UI design, interactive web applications, and modern frontend technologies. Adept at building synthesizable RTL modules, debugging simulations, and leveraging Cadence and Vivado for custom VLSI projects.</h3>
+<h3 align="center">ECE Undergrad in Vit AP passionate in Core and VLSI field.</h3>
 
 - 🌱 I’m currently learning **(Static Time Analysis) STA ,RTL Synthesis and Design Verification**
 

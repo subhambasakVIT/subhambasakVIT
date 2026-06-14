@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **(Static Time Analysis) STA ,RTL Synthesis and Design Verification**
 
-- 👨‍💻 All of my projects are available at [https://basak-chips-portfolio.lovable.app/](https://basak-chips-portfolio.lovable.app/)
+- 👨‍💻 All of my projects are available at [https://basak-chips-portfolio.lovable.app/](https://basaksubham.lovable.app/)
 
 - 📫 How to reach me **subham.23bec7119@vitapstudent.ac.in**
 
